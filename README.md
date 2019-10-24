@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+<div align="left">
     <img src="screenshot-٢٠١٩-١٠-٢٤_٠٧.٥٣.٥٧.١٩٨.png"</img>  
 </div>
 
