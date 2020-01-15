@@ -8,7 +8,8 @@
     <img src="screenshot-٢٠١٩-١٠-٢٤_٠٧.٥٣.٥٧.١٩٨.png"</img>  
 </div>
 
-<div align="center">
+<div align="center"
+     with="10">
     <img src="screenshot-٢٠١٩-١٠-٢٤_٠٧.٥٤.٠٩.٥١٧.png"</img>  
 </div>
 
